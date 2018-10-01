@@ -26,6 +26,10 @@ h2 {
   background-color: #b58900;
 }
 
-.dfn {
+.dfn strong {
   color: #fff;
+}
+
+#favs {
+  background-color: #719e07;
 }
