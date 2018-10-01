@@ -42,6 +42,8 @@ h2 {
   background-color: #719e47;
 }
 
+ol li:third-child #2aa198;
+
 .types li:nth-child(odd) {
   background-color: #657ba3;
 }
