@@ -19,5 +19,13 @@ main  {
 }
 
 h2 {
-  color: #93a1a1
+  color: #93a1a1;
+}
+
+.dfn {
+  background-color: #b58900;
+}
+
+.dfn {
+  color: #fff;
 }
