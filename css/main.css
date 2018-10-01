@@ -33,3 +33,7 @@ h2 {
 #favs {
   background-color: #719e07;
 }
+
+[href^="http://en.wikipedia.org/wiki/Fruit"] {
+background-color: #2694d8;
+}
